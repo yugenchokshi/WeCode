@@ -1,4 +1,4 @@
-# WeCode
+# WeCode - Developed By Yugen Chokshi (Me)
 WeCode is an App on PlayStore to get books for coding!
 
 This is just a link to get the app. 
